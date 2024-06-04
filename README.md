@@ -1,6 +1,6 @@
 # awp-project
 hotel booking management website made using css javascript php and for backend mysql 
-xampp used as a local hosting platform
+xampp used as a local hosting platform..
 
 ![Capture](https://github.com/111faizan/awp-project/assets/95275307/b276f5ee-8ae4-4070-835f-1f6bebed8940)
 ![p2](https://github.com/111faizan/awp-project/assets/95275307/ec8ab413-b909-4fea-91f4-c48dd19bf583)
